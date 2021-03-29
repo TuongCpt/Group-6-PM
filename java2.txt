@@ -1,3 +1,0 @@
-java
-hello word
-first comment 
